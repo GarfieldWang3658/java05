@@ -1,0 +1,15 @@
+public class IfExercise01{
+	public static void main(String[] args){
+		double a = 15
+		double b = 40
+
+		if (a>10,b>20) {
+
+			System.out.println("两数之和="+（a+b）)；
+
+		}
+		
+		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+	}
+}
